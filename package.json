@@ -1,0 +1,21 @@
+{
+    "name": "Hello",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./Hello.js",
+    "author": {
+        "name": "dexterneutron",
+        "email": "felixdlugo@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/Hello.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/Hello/issues"
+    }
+}
